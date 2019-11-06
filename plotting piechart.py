@@ -4,7 +4,7 @@ Created on Wed Nov  6 21:05:41 2019
 
 @author: Hp
 """
-
+# plotting a pie chart for different customers
 import numpy as np
 import pandas as pd
 
