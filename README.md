@@ -1,7 +1,11 @@
 #Online-Shoppers-Purchasing-Intention:
+                      
+                      
                       In this data set we have perform classification or clustering and predict the intention of the Online Customers Purchasing Intention. The data set was formed so that each session would belong to a different user in a 1-year period to avoid any tendency to a specific campaign, special day, user profile, or period.
 
 #Attribute Information:
+                           
+                           
                            The dataset consists of 10 numerical and 8 categorical attributes. The 'Revenue' attribute can be used as the class label.
 
 "Administrative", "Administrative Duration", "Informational", "Informational Duration", "Product Related" and "Product Related Duration" represent the number of different types of pages visited by the visitor in that session and total time spent in each of these page categories. The values of these features are derived from the URL information of the pages visited by the user and updated in real time when a user takes an action, e.g. moving from one page to another. The "Bounce Rate", "Exit Rate" and "Page Value" features represent the metrics measured by "Google Analytics" for each page in the e-commerce site. The value of "Bounce Rate" feature for a web page refers to the percentage of visitors who enter the site from that page and then leave ("bounce") without triggering any other requests to the analytics server during that session.
